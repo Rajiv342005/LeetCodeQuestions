@@ -9,4 +9,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2058-concatenation-of-array) |
+## Math
+|  |
+| ------- |
+| [1630-count-odd-numbers-in-an-interval-range](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 <!---LeetCode Topics End-->
