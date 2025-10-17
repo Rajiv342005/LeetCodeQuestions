@@ -5,25 +5,37 @@ public:
         int count =0;
         sort(nums1.begin(),nums1.end());
         sort(nums2.begin(),nums2.end());
-        for(int i=0;i<nums1.size();i++){
-            for(int j=0;j<nums2.size();j++){
-                if(nums1[i]==nums2[j]){
-                    count++;
-                    break;
-                } 
+        int index1 =0;
+        int index2 =0;
+        while(index1<nums1.size() && index2<nums2.size()){
+            if(nums1[index1]>nums2[index2]){
+                index2++;
+            }
+            else if(nums1[index1]<nums2[index2]){
+                index1++;
+            }
+            else{
+                count++;
+                index1++;
             }
         }
         ans.push_back(count);
-        count =0;
-        for(int i=0;i<nums2.size();i++){
-            for(int j=0;j<nums1.size();j++){
-                if(nums2[i]==nums1[j]){
-                    count++;
-                    break;
-                }
+        count=0;
+        index1=0; index2=0;
+        while(index1<nums1.size() && index2<nums2.size()){
+            if(nums1[index1]>nums2[index2]){
+                index2++;
+            }
+            else if(nums1[index1]<nums2[index2]){
+                index1++;
+            }
+            else{
+                count++;
+                index2++;
             }
         }
         ans.push_back(count);
         return ans;
     }
+    
 };
