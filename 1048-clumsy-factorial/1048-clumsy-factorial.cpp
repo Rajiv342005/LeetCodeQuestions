@@ -38,13 +38,12 @@ public:
         while(ans.size()){
             if(temp){
                 sum+= ans.top();
-                ans.pop();
             }
             else{
                 sum-= ans.top();
-                ans.pop();
             }
             temp = !temp;
+            ans.pop();
         }
         return sum;
     }
