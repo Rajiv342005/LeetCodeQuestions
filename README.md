@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0503-next-greater-element-ii) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2058-concatenation-of-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2058-concatenation-of-array) |
+| [2102-find-the-middle-index-in-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2102-find-the-middle-index-in-array) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3206-find-common-elements-between-two-arrays) |
 ## Simulation
 |  |
@@ -75,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Prefix Sum
+|  |
+| ------- |
+| [2102-find-the-middle-index-in-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2102-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
