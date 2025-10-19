@@ -5,7 +5,7 @@ public:
         stack <int> st;
         int index =0;
         vector<int> temp(n,-1);
-        int curr=0;
+        int curr;
         while(index <2*n){
             curr = nums[index%n];
             while (!st.empty() && nums[st.top()] < curr) {
