@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0503-next-greater-element-ii) |
+| [0724-find-pivot-index](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0724-find-pivot-index) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2058-concatenation-of-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2102-find-the-middle-index-in-array) |
@@ -79,5 +80,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0724-find-pivot-index) |
 | [2102-find-the-middle-index-in-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2102-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
