@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0143-reorder-list) |
 | [0402-remove-k-digits](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0445-add-two-numbers-ii) |
@@ -122,4 +123,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0239-sliding-window-maximum) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
