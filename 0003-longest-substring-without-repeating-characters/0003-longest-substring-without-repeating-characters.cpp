@@ -1,26 +1,26 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-        int maxlength = 0;
-        int currlength =0;
-        unordered_set <char> used;
-        int index =0;
-        while(index<s.size()){
-            if(used.find(s[index])!=used.end()){
-                if(currlength>maxlength) maxlength=currlength;
-                index = index - currlength + 1;
-                used.clear();
-                currlength = 0;
-                continue;
+    int length = 0;
+    int first = 0;
+    int second = 0;
+    vector<int> nums(256, 0); // handle all ASCII chars
+
+    while (second < s.size()) {
+        if (nums[s[second]] == 0) {
+            nums[s[second]]++;
+            second++;
+            length = max(length, second - first);
+        } else {
+            while (first < second && nums[s[second]] != 0) {
+                nums[s[first]] = 0;
+                first++;
             }
-            else{
-                    used.insert(s[index]);
-                    currlength++;
-                    index++;
-                
-            }
-            if (currlength > maxlength) maxlength = currlength;
+            nums[s[second]]++;
+            second++;
         }
-        return maxlength;
     }
+    return length;
+    }
+
 };
