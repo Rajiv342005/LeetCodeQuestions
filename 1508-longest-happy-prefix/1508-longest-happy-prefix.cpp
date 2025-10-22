@@ -23,10 +23,7 @@ public:
             }
         }
         int n = LPS[s.size()];
-        string s3 = "";
-        for(int i=1;i<=n;i++){
-            s3+=str[i];
-        }
+        string s3 = s.substr(0,n);
         return s3;
     }
 };
