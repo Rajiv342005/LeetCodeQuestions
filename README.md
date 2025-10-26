@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-clumsy-factorial](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1048-clumsy-factorial) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Linked List
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0143-reorder-list) |
 | [0445-add-two-numbers-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0445-add-two-numbers-ii) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## String
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0874-backspace-string-compare) |
 | [1048-clumsy-factorial](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1048-clumsy-factorial) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Hash Table
 |  |
 | ------- |
