@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0067-add-binary) |
+| [0242-valid-anagram](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0257-binary-tree-paths) |
 | [0389-find-the-difference](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0402-remove-k-digits) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0242-valid-anagram](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0389-find-the-difference) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0389-find-the-difference) |
 ## Two Pointers
 |  |
