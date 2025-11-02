@@ -12,6 +12,7 @@ public:
             }
             if(count>(nums.size()/2)) return last;
             last = nums[index];
+            count =0;
         }
         return -1;
     }
