@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0014-longest-common-prefix) |
 | [0073-set-matrix-zeroes](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0073-set-matrix-zeroes) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0134-gas-station](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0143-reorder-list](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0143-reorder-list) |
 | [0344-reverse-string](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0345-reverse-vowels-of-a-string) |
