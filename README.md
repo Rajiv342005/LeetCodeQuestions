@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1791-richest-customer-wealth](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1791-richest-customer-wealth) |
 | [2058-concatenation-of-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2102-find-the-middle-index-in-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0073-set-matrix-zeroes) |
+| [1791-richest-customer-wealth](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1791-richest-customer-wealth) |
 ## Divide and Conquer
 |  |
 | ------- |
