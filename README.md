@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0239-sliding-window-maximum) |
 | [0503-next-greater-element-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0503-next-greater-element-ii) |
+| [0645-set-mismatch](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0724-find-pivot-index) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0645-set-mismatch) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3206-find-common-elements-between-two-arrays) |
 ## Bit Manipulation
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0222-count-complete-tree-nodes) |
 | [0371-sum-of-two-integers](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0645-set-mismatch) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 ## Sorting
 |  |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0645-set-mismatch) |
 ## Two Pointers
 |  |
 | ------- |
