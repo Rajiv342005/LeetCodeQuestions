@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0007-reverse-integer) |
 | [0067-add-binary](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0415-add-strings) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0067-add-binary) |
+| [0171-excel-sheet-column-number](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0344-reverse-string) |
