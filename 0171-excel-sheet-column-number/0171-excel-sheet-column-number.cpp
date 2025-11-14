@@ -7,7 +7,7 @@ public:
         int p =0;
         while(index>=0){
             digit = columnTitle[index]-'A'+1;
-            ans = ans+ digit*pow(26,p++);
+            ans += digit*pow(26,p++);
             index--;
         }
         return ans;    
