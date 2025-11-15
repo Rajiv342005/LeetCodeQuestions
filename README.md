@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0134-gas-station](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0134-gas-station) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0007-reverse-integer) |
 | [0067-add-binary](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0371-sum-of-two-integers) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0402-remove-k-digits](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0445-add-two-numbers-ii) |
 | [0503-next-greater-element-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0503-next-greater-element-ii) |
