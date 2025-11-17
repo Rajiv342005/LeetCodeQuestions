@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0874-backspace-string-compare) |
+| [0933-increasing-order-search-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0933-increasing-order-search-tree) |
 | [1048-clumsy-factorial](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1048-clumsy-factorial) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1072-next-greater-node-in-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0543-diameter-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0904-leaf-similar-trees) |
+| [0933-increasing-order-search-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0933-increasing-order-search-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 ## Depth-First Search
 |  |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0543-diameter-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0904-leaf-similar-trees) |
+| [0933-increasing-order-search-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0933-increasing-order-search-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 ## Binary Tree
 |  |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0543-diameter-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0904-leaf-similar-trees) |
+| [0933-increasing-order-search-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0933-increasing-order-search-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 ## Trie
 |  |
@@ -367,4 +371,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0933-increasing-order-search-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0933-increasing-order-search-tree) |
 <!---LeetCode Topics End-->
