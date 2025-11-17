@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0933-increasing-order-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0975-range-sum-of-bst) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 ## Depth-First Search
 |  |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0933-increasing-order-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0975-range-sum-of-bst) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 ## Binary Tree
 |  |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0933-increasing-order-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0975-range-sum-of-bst) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 ## Trie
 |  |
@@ -372,4 +375,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0933-increasing-order-search-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0933-increasing-order-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->
