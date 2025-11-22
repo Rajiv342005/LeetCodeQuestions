@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0239-sliding-window-maximum) |
+| [0287-find-the-duplicate-number](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0287-find-the-duplicate-number) |
 | [0503-next-greater-element-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0503-next-greater-element-ii) |
 | [0645-set-mismatch](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0682-baseball-game) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0645-set-mismatch) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0874-backspace-string-compare](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0874-backspace-string-compare) |
@@ -375,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
 | ------- |
