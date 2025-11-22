@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0874-backspace-string-compare) |
 | [1508-longest-happy-prefix](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1508-longest-happy-prefix) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3110-score-of-a-string](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3110-score-of-a-string) |
 ## Stack
 |  |
 | ------- |
