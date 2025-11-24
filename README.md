@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2644-find-the-maximum-divisibility-score](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2644-find-the-maximum-divisibility-score) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3206-find-common-elements-between-two-arrays) |
 ## Simulation
