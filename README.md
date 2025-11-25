@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0498-diagonal-traverse](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0503-next-greater-element-ii) |
+| [0566-reshape-the-matrix](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0566-reshape-the-matrix) |
 | [0645-set-mismatch](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0724-find-pivot-index) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0498-diagonal-traverse) |
+| [0566-reshape-the-matrix](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0874-backspace-string-compare) |
 | [1048-clumsy-factorial](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1048-clumsy-factorial) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0073-set-matrix-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0498-diagonal-traverse](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0498-diagonal-traverse) |
+| [0566-reshape-the-matrix](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0566-reshape-the-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1572-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1791-richest-customer-wealth) |
 ## Divide and Conquer
