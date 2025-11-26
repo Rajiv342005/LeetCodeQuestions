@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0206-reverse-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0445-add-two-numbers-ii) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1072-next-greater-node-in-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1013-fibonacci-number) |
 ## Heap (Priority Queue)
 |  |
