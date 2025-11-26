@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0496-next-greater-element-i](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0503-next-greater-element-ii) |
 | [0566-reshape-the-matrix](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0566-reshape-the-matrix) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0445-add-two-numbers-ii) |
+| [0496-next-greater-element-i](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0874-backspace-string-compare) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0389-find-the-difference) |
+| [0496-next-greater-element-i](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0782-jewels-and-stones) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0503-next-greater-element-ii) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1072-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2487-remove-nodes-from-linked-list) |
