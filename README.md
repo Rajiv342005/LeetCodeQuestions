@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0445-add-two-numbers-ii) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1072-next-greater-node-in-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2487-remove-nodes-from-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## String
 |  |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-clumsy-factorial](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1048-clumsy-factorial) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1072-next-greater-node-in-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2487-remove-nodes-from-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Hash Table
 |  |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0503-next-greater-element-ii) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1072-next-greater-node-in-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1013-fibonacci-number) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
