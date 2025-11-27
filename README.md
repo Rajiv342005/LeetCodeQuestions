@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0206-reverse-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0445-add-two-numbers-ii) |
+| [0707-design-linked-list](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0707-design-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1072-next-greater-node-in-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2487-remove-nodes-from-linked-list) |
@@ -486,4 +487,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0232-implement-queue-using-stacks) |
+| [0707-design-linked-list](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
