@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1424-diagonal-traverse-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1424-diagonal-traverse-ii) |
+| [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1572-matrix-diagonal-sum](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1572-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1791-richest-customer-wealth) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2022-convert-1d-array-into-2d-array) |
