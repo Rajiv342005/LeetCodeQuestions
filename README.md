@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1046-last-stone-weight](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1046-last-stone-weight) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0239-sliding-window-maximum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1046-last-stone-weight](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1046-last-stone-weight) |
 | [1424-diagonal-traverse-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1424-diagonal-traverse-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Monotonic Queue
