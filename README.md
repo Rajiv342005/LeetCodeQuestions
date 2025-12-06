@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0503-next-greater-element-ii) |
+| [0506-relative-ranks](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0506-relative-ranks) |
 | [0566-reshape-the-matrix](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0566-reshape-the-matrix) |
 | [0645-set-mismatch](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0682-baseball-game) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0506-relative-ranks](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0645-set-mismatch) |
 | [0941-sort-array-by-parity](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0958-sort-array-by-parity-ii) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0239-sliding-window-maximum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0506-relative-ranks](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0506-relative-ranks) |
 | [1046-last-stone-weight](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1046-last-stone-weight) |
 | [1424-diagonal-traverse-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1424-diagonal-traverse-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
