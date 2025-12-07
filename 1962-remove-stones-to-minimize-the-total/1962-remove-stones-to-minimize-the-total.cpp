@@ -1,10 +1,7 @@
 class Solution {
 public:
     int minStoneSum(vector<int>& piles, int k) {
-        priority_queue<int>maxheap;
-        for(int i=0;i<piles.size();i++){
-            maxheap.push(piles[i]);
-        }
+        priority_queue<int>maxheap(piles.begin(),piles.end());
         int data =0;
         while(k>0){
             data = maxheap.top();
