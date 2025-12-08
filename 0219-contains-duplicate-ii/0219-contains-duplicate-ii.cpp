@@ -5,9 +5,9 @@ public:
         for(int i=0;i<nums.size();i++){
             if(m.count(nums[i])){
                 if(abs(m[nums[i]]-i)<=k) return true;
-                else m[nums[i]] = i;
+                // m[nums[i]] = i;
             }
-            else m[nums[i]] = i;
+            m[nums[i]] = i;
         }
         return false;
     }
