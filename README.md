@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0445-add-two-numbers-ii) |
 | [0504-base-7](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0504-base-7) |
 | [1013-fibonacci-number](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1013-fibonacci-number) |
+| [1025-divisor-game](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1025-divisor-game) |
 | [1048-clumsy-factorial](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1048-clumsy-factorial) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1630-count-odd-numbers-in-an-interval-range) |
@@ -521,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0085-maximal-rectangle) |
 | [1013-fibonacci-number](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1013-fibonacci-number) |
+| [1025-divisor-game](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1025-divisor-game) |
 ## Memoization
 |  |
 | ------- |
@@ -592,4 +594,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3200-maximum-height-of-a-triangle](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3200-maximum-height-of-a-triangle) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
