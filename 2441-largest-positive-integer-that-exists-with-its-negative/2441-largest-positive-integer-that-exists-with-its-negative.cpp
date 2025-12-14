@@ -10,6 +10,7 @@ public:
                 if(abs(found)>larg){
                     larg = abs(found);
                 }
+                else continue;
             }
             else{
                 m[nums[i]]++;
