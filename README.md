@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0724-find-pivot-index) |
 | [0941-sort-array-by-parity](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0941-sort-array-by-parity) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0958-sort-array-by-parity-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0958-sort-array-by-parity-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0782-jewels-and-stones) |
 | [0874-backspace-string-compare](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0874-backspace-string-compare) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1508-longest-happy-prefix](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1508-longest-happy-prefix) |
 | [1598-crawler-log-folder](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1598-crawler-log-folder) |
