@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-    TreeNode* InsertNode(TreeNode*root,TreeNode*&key){
+    TreeNode* InsertNode(TreeNode*&root,TreeNode*&key){
         if(!root) return key;
         if(root->val>key->val){
             root->left = InsertNode(root->left,key);
