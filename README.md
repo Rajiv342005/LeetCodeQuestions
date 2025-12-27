@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2404-most-frequent-even-element) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2643-row-with-maximum-ones](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2643-row-with-maximum-ones) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2974-minimum-number-game](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2974-minimum-number-game) |
 | [3174-clear-digits](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3174-clear-digits) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2974-minimum-number-game](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2974-minimum-number-game) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3731-find-missing-elements](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3731-find-missing-elements) |
@@ -428,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2974-minimum-number-game](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2974-minimum-number-game) |
@@ -664,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1791-richest-customer-wealth) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2643-row-with-maximum-ones](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2643-row-with-maximum-ones) |
 | [3033-modify-the-matrix](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3033-modify-the-matrix) |
 ## Divide and Conquer
