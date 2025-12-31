@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0724-find-pivot-index) |
+| [0804-unique-morse-code-words](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0804-unique-morse-code-words) |
 | [0941-sort-array-by-parity](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0941-sort-array-by-parity) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0958-sort-array-by-parity-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0958-sort-array-by-parity-ii) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0541-reverse-string-ii) |
 | [0742-to-lower-case](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0782-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0804-unique-morse-code-words) |
 | [0874-backspace-string-compare](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0874-backspace-string-compare) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0782-jewels-and-stones](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0782-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0804-unique-morse-code-words) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1392-find-the-difference-of-two-arrays) |
