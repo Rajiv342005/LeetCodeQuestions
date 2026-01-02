@@ -2,20 +2,24 @@ class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
         vector<vector<int>>ans;
-        vector<int>v;
         set<vector<int>>unique;
-        unordered_set<int>used;
-        for(int i=0;i<nums.size()-1;i++){
-            used.clear();
-            for(int j=i+1; j<nums.size();j++){
-                int required = -(nums[i]+nums[j]);
-                if(used.count(required)){
-                    v = {nums[i],nums[j],required};
+        sort(nums.begin(),nums.end());
+        vector<int>v;
+
+        for(int i=0;i<nums.size()-2;i++){
+            int right = nums.size()-1;
+            int left = i+1;
+            while(left<right){
+                int Sum = nums[right]+nums[left]+nums[i];
+                if(Sum==0){
+                    v = {nums[right],nums[left],nums[i]};
                     sort(v.begin(),v.end());
                     unique.insert(v);
+                    left++;
                 }
-                used.insert(nums[j]);
-            }
+                else if(Sum<0) left++;
+                else right--;
+            }     
         }
         for(auto &x:unique){
             ans.push_back(x);
