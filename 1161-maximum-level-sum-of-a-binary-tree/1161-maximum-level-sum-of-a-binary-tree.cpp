@@ -15,7 +15,7 @@ public:
         int Maxlevel = 0;
         int Maxsum =INT_MIN;
         int currsum =0;
-        int currlevel =0;
+        int currlevel =1;
         queue<TreeNode*>q;
         q.push(root);
         while(!q.empty()){
@@ -38,6 +38,6 @@ public:
             }
             currlevel++;
         }
-        return Maxlevel+1;    
+        return Maxlevel;    
     }
 };
