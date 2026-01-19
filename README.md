@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3110-score-of-a-string](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3110-score-of-a-string) |
 | [3174-clear-digits](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3174-clear-digits) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3794-reverse-string-prefix](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3794-reverse-string-prefix) |
 ## Stack
 |  |
 | ------- |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2460-apply-operations-to-an-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2460-apply-operations-to-an-array) |
+| [3794-reverse-string-prefix](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3794-reverse-string-prefix) |
 ## Greedy
 |  |
 | ------- |
