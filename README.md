@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1791-richest-customer-wealth](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1791-richest-customer-wealth) |
+| [1816-truncate-sentence](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-longest-happy-prefix](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1508-longest-happy-prefix) |
 | [1598-crawler-log-folder](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1816-truncate-sentence](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1816-truncate-sentence) |
 | [2000-reverse-prefix-of-word](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2000-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2351-first-letter-to-appear-twice](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2351-first-letter-to-appear-twice) |
