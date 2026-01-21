@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0134-gas-station) |
+| [0149-max-points-on-a-line](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0070-climbing-stairs) |
+| [0149-max-points-on-a-line](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0171-excel-sheet-column-number) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0146-lru-cache](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0219-contains-duplicate-ii) |
@@ -830,4 +833,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0176-second-highest-salary) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
