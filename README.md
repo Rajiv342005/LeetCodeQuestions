@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2644-find-the-maximum-divisibility-score](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2644-find-the-maximum-divisibility-score) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2974-minimum-number-game](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2974-minimum-number-game) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3033-modify-the-matrix](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3033-modify-the-matrix) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2500-delete-greatest-value-in-each-row](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2974-minimum-number-game](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2974-minimum-number-game) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3731-find-missing-elements](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3731-find-missing-elements) |
@@ -814,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2367-number-of-arithmetic-triplets) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3200-maximum-height-of-a-triangle](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3200-maximum-height-of-a-triangle) |
 ## Brainteaser
 |  |
