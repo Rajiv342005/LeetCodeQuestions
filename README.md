@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3200-maximum-height-of-a-triangle](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3200-maximum-height-of-a-triangle) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2974-minimum-number-game](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2974-minimum-number-game) |
 | [3174-clear-digits](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3174-clear-digits) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Math
 |  |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2469-convert-the-temperature) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3783-mirror-distance-of-an-integer) |
@@ -508,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2530-maximal-score-after-applying-k-operations](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2974-minimum-number-game](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2974-minimum-number-game) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Monotonic Queue
