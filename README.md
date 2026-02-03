@@ -863,4 +863,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0258-add-digits) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
