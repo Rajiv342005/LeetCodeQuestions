@@ -568,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1382-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -610,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1382-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -659,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1382-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Trie
 |  |
@@ -699,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Backtracking
 |  |
