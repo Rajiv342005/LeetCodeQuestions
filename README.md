@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0989-add-to-array-form-of-integer) |
 | [0994-rotting-oranges](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0994-rotting-oranges) |
+| [0997-find-the-town-judge](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1002-find-common-characters) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0782-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0804-unique-morse-code-words) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0997-find-the-town-judge](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1002-find-common-characters) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1207-unique-number-of-occurrences) |
@@ -897,6 +899,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0547-number-of-provinces) |
+| [0997-find-the-town-judge](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1791-find-center-of-star-graph) |
 ## Union-Find
 |  |
