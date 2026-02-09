@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0641-design-circular-deque) |
 | [0645-set-mismatch](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0682-baseball-game) |
+| [0695-max-area-of-island](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -615,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0904-leaf-similar-trees) |
@@ -718,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0994-rotting-oranges](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0994-rotting-oranges) |
@@ -784,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0566-reshape-the-matrix) |
+| [0695-max-area-of-island](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0994-rotting-oranges) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -907,4 +911,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
