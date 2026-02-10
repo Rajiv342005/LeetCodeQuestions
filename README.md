@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0419-battleships-in-a-board](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0419-battleships-in-a-board) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0463-island-perimeter) |
@@ -607,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0404-sum-of-left-leaves) |
+| [0419-battleships-in-a-board](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0463-island-perimeter) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0513-find-bottom-left-tree-value) |
@@ -787,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0419-battleships-in-a-board](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0542-01-matrix) |
