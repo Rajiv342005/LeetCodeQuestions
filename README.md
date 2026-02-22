@@ -378,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0832-flipping-an-image) |
+| [0868-binary-gap](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0868-binary-gap) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1486-xor-operation-in-an-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1486-xor-operation-in-an-array) |
