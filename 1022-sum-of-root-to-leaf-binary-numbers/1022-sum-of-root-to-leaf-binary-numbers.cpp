@@ -13,7 +13,6 @@ class Solution {
 public:
     int binaryToDeci(string s){
         int deci =0;
-        int count =0;
         for(int i=0;i<s.size();i++){
             deci = s[i]+ deci*2;
         }
