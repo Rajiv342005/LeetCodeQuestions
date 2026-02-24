@@ -660,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1192-critical-connections-in-a-network](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1192-critical-connections-in-a-network) |
 | [1382-balance-a-binary-search-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1382-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -957,6 +958,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0547-number-of-provinces) |
 | [0997-find-the-town-judge](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0997-find-the-town-judge) |
+| [1192-critical-connections-in-a-network](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1192-critical-connections-in-a-network) |
 | [1791-find-center-of-star-graph](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1791-find-center-of-star-graph) |
 ## Union-Find
 |  |
@@ -966,4 +968,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0695-max-area-of-island) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
