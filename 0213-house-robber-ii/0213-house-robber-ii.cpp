@@ -1,16 +1,25 @@
 class Solution {
 public:
-    int RobberHouseII(int index,int n,vector<int>&nums,vector<int>&dp){
-        if(index>=n) return 0;
-        if(dp[index]!=-1) return dp[index];
-        dp[index] = max(RobberHouseII(index+1,n,nums,dp),nums[index]+RobberHouseII(index+2,n,nums,dp));
-        return dp[index];
-    }
     int rob(vector<int>& nums) {
         int n = nums.size();
         if(n==1) return nums[0];
-        vector<int>dp1(n,-1);
-        vector<int>dp2(n,-1);
-        return max(RobberHouseII(0,n-1,nums,dp1),RobberHouseII(1,n,nums,dp2));
+        int first =0;
+        int second =0;
+        int final1;
+        // Skipping First House;
+        for(int i=n-1;i>=1;i--){
+            final1 = max(first,second+nums[i]);
+            second = first;
+            first = final1;
+        }
+        // Skipping Last House;
+        int final2;
+        first=second =0;
+        for(int i=n-2;i>=0;i--){
+            final2 = max(second+nums[i],first);
+            second = first;
+            first = final2;
+        }
+        return max(final1,final2);
     }
 };
