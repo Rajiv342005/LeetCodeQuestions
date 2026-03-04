@@ -6,8 +6,6 @@ public:
         
         vector<int> row(m,0);
         vector<int> col(n,0);
-
-        // count 1s
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
                 if(mat[i][j]==1){
@@ -16,10 +14,7 @@ public:
                 }
             }
         }
-
         int count = 0;
-
-        // check special positions
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
                 if(mat[i][j]==1 && row[i]==1 && col[j]==1){
@@ -27,7 +22,6 @@ public:
                 }
             }
         }
-
         return count;
     }
 };
