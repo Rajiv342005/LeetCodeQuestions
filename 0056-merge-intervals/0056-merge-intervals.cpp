@@ -9,12 +9,8 @@ public:
             int first = intervals[i][0];
             int second = intervals[i][1];
             if(first>=prev[0] && first<=prev[1]){
-                int max1 = max(first,second);
-                max1 = max(max1,prev[0]);
-                max1 = max(max1,prev[1]);
-                int min1 = min(first,second);
-                min1 = min(min1,prev[0]);
-                min1 = min(min1,prev[1]);
+                int max1 = max(prev[1],second);
+                int min1 = prev[0];
                 ans.pop_back();
                 prev = {min1,max1};
                 ans.push_back({min1,max1});
