@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1572-matrix-diagonal-sum](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1598-crawler-log-folder](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1598-crawler-log-folder) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-diagonal-traverse-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1424-diagonal-traverse-ii) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -814,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1552-magnetic-force-between-two-balls) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Dynamic Programming
 |  |
