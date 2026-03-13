@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0958-sort-array-by-parity-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0958-sort-array-by-parity-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0973-k-closest-points-to-origin) |
 | [0989-add-to-array-form-of-integer](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0989-add-to-array-form-of-integer) |
 | [0994-rotting-oranges](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0997-find-the-town-judge) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0445-add-two-numbers-ii) |
 | [0504-base-7](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0504-base-7) |
 | [0728-self-dividing-numbers](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0728-self-dividing-numbers) |
+| [0973-k-closest-points-to-origin](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0973-k-closest-points-to-origin) |
 | [0989-add-to-array-form-of-integer](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0989-add-to-array-form-of-integer) |
 | [1013-fibonacci-number](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1013-fibonacci-number) |
 | [1025-divisor-game](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1025-divisor-game) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0645-set-mismatch) |
 | [0941-sort-array-by-parity](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0958-sort-array-by-parity-ii) |
+| [0973-k-closest-points-to-origin](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0973-k-closest-points-to-origin) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1424-diagonal-traverse-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1424-diagonal-traverse-ii) |
@@ -556,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0506-relative-ranks) |
+| [0973-k-closest-points-to-origin](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1424-diagonal-traverse-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1424-diagonal-traverse-ii) |
@@ -897,12 +901,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0654-maximum-binary-tree) |
+| [0973-k-closest-points-to-origin](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0973-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1382-balance-a-binary-search-tree) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0973-k-closest-points-to-origin) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -984,6 +990,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0149-max-points-on-a-line) |
+| [0973-k-closest-points-to-origin](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0973-k-closest-points-to-origin) |
 ## Number Theory
 |  |
 | ------- |
