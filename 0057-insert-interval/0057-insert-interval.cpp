@@ -2,23 +2,23 @@ class Solution {
 public:
     vector<vector<int>> insert(vector<vector<int>>& intervals, vector<int>& newInterval) {
         vector<vector<int>>ans;
-        intervals.push_back(newInterval);
-        sort(intervals.begin(),intervals.end());
-        vector<int>prev = intervals[0];
-        ans.push_back(prev);
-        for(int i=1;i<intervals.size();i++){
-            if(intervals[i][0]>=prev[0] && intervals[i][0]<=prev[1]){
-                int max1 = max(prev[1],intervals[i][1]);
-                ans.pop_back();
-                prev = {prev[0],max1};
-                ans.push_back({prev[0],max1});
+        for(auto interval:intervals){
+            // No Overlapping(interval come before NewInterval)
+            if(interval[1]<newInterval[0]){
+                ans.push_back(interval);
             }
+            // No Overlapping(newinterval come before Interval)
+            else if(newInterval[1]<interval[0]){
+                ans.push_back(newInterval);
+                newInterval = interval;
+            }
+            // Overlapping Case
             else{
-                ans.push_back(intervals[i]);
-                prev = intervals[i];
+                newInterval[0] = min(newInterval[0],interval[0]);
+                newInterval[1] = max(newInterval[1],interval[1]);
             }
         }
-        return ans;
-       
+        ans.push_back(newInterval);
+        return ans;    
     }
 };
