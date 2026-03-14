@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1143-longest-common-subsequence) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1508-longest-happy-prefix](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1508-longest-happy-prefix) |
 | [1598-crawler-log-folder](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -808,6 +809,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0257-binary-tree-paths) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Binary Search
 |  |
 | ------- |
