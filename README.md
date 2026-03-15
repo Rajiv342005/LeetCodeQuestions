@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0303-range-sum-query-immutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -524,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0724-find-pivot-index) |
@@ -941,6 +943,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0303-range-sum-query-immutable) |
 | [0622-design-circular-queue](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0707-design-linked-list) |
