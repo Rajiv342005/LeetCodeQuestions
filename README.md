@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1486-xor-operation-in-an-array) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1622-fancy-sequence](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1622-fancy-sequence) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -947,6 +948,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0707-design-linked-list) |
+| [1622-fancy-sequence](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1622-fancy-sequence) |
 ## Merge Sort
 |  |
 | ------- |
@@ -1029,4 +1031,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [1622-fancy-sequence](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1622-fancy-sequence) |
 <!---LeetCode Topics End-->
