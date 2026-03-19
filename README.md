@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1002-find-common-characters) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
@@ -831,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1552-magnetic-force-between-two-balls) |
