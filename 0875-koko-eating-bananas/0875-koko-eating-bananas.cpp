@@ -3,7 +3,7 @@ public:
     bool check(vector<int>&piles,int mid,int h){
         int counter =0;
         for(int i=0;i<piles.size();i++){
-            counter+=(piles[i] + mid - 1) / mid;;
+            counter+=(piles[i] + mid - 1) / mid;
         }
         return counter<=h;
     }
