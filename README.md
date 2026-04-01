@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2643-row-with-maximum-ones](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2643-row-with-maximum-ones) |
 | [2644-find-the-maximum-divisibility-score](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2644-find-the-maximum-divisibility-score) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [2751-robot-collisions](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2751-robot-collisions) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2974-minimum-number-game](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2974-minimum-number-game) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2460-apply-operations-to-an-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [2751-robot-collisions](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2751-robot-collisions) |
 | [2974-minimum-number-game](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2974-minimum-number-game) |
 | [3174-clear-digits](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3174-clear-digits) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2390-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2487-remove-nodes-from-linked-list) |
+| [2751-robot-collisions](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2751-robot-collisions) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3174-clear-digits](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3174-clear-digits) |
 ## Hash Table
@@ -464,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [2751-robot-collisions](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2751-robot-collisions) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2974-minimum-number-game) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
