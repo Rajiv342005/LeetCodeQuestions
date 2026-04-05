@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2195-time-needed-to-buy-tickets) |
+| [2211-count-collisions-on-a-road](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2211-count-collisions-on-a-road) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1816-truncate-sentence) |
 | [2000-reverse-prefix-of-word](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2000-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2211-count-collisions-on-a-road](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2211-count-collisions-on-a-road) |
 | [2351-first-letter-to-appear-twice](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2390-removing-stars-from-a-string) |
 | [2716-minimize-string-length](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2716-minimize-string-length) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2000-reverse-prefix-of-word](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2000-reverse-prefix-of-word) |
+| [2211-count-collisions-on-a-road](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2211-count-collisions-on-a-road) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2390-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2487-remove-nodes-from-linked-list) |
