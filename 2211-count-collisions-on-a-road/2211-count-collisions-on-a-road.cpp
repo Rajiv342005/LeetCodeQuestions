@@ -3,26 +3,25 @@ public:
     int countCollisions(string directions) {
         int Collision =0;
         bool IsStatic = false;
-        stack<char>st;
+        int countRight = 0;
         for(int i=0;i<directions.size();i++){
-            if(st.empty()){
-                if(directions[i]=='R') st.push(directions[i]);
+            if(countRight==0){
+                if(directions[i]=='R') countRight++;
                 else if(directions[i]=='S') IsStatic=true;
                 else if(directions[i]=='L' && IsStatic) Collision++;
                 else continue;
             }
             else{
-                if(directions[i]=='R') st.push(directions[i]);
+                if(directions[i]=='R') countRight++;
                 else if(directions[i]=='S'){
-                    Collision+=st.size();
-                    while(!st.empty()) st.pop();
+                    Collision+=countRight;
+                    countRight =0;
                     IsStatic = true;
                 }
                 else{
                     Collision+=2;
-                    st.pop();
-                    Collision+= st.size();
-                    while(!st.empty()) st.pop();
+                    Collision+= countRight-1;
+                    countRight=0;
                     IsStatic = true;
                 }
             }
