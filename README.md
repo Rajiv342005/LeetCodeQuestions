@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2974-minimum-number-game) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3033-modify-the-matrix](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3033-modify-the-matrix) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
