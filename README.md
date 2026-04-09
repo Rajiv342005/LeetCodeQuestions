@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3709-design-exam-scores-tracker](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3709-design-exam-scores-tracker) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3731-find-missing-elements) |
@@ -577,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [2102-find-the-middle-index-in-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2102-find-the-middle-index-in-array) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3709-design-exam-scores-tracker](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3709-design-exam-scores-tracker) |
 ## Queue
 |  |
 | ------- |
@@ -905,6 +907,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3709-design-exam-scores-tracker](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3709-design-exam-scores-tracker) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1031,6 +1034,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0707-design-linked-list](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0707-design-linked-list) |
 | [0919-complete-binary-tree-inserter](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0919-complete-binary-tree-inserter) |
 | [1622-fancy-sequence](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1622-fancy-sequence) |
+| [3709-design-exam-scores-tracker](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3709-design-exam-scores-tracker) |
 ## Merge Sort
 |  |
 | ------- |
