@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2469-convert-the-temperature](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2469-convert-the-temperature) |
+| [2544-alternating-digit-sum](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2544-alternating-digit-sum) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2871-double-a-number-represented-as-a-linked-list) |
