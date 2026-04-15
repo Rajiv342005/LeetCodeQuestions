@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2460-apply-operations-to-an-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2460-apply-operations-to-an-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-count-collisions-on-a-road](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2211-count-collisions-on-a-road) |
 | [2351-first-letter-to-appear-twice](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2390-removing-stars-from-a-string) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2716-minimize-string-length](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2716-minimize-string-length) |
 | [3110-score-of-a-string](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3110-score-of-a-string) |
 | [3174-clear-digits](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3174-clear-digits) |
