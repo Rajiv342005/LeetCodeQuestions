@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Bit Manipulation
 |  |
