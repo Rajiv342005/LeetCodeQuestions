@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -532,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0958-sort-array-by-parity-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2000-reverse-prefix-of-word](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2000-reverse-prefix-of-word) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -921,6 +923,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1552-magnetic-force-between-two-balls) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
