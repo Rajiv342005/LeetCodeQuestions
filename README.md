@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1002-find-common-characters) |
 | [1143-longest-common-subsequence](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1143-longest-common-subsequence) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1508-longest-happy-prefix](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1508-longest-happy-prefix) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1207-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -587,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0239-sliding-window-maximum) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Prefix Sum
 |  |
