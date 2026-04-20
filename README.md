@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2058-concatenation-of-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2058-concatenation-of-array) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2102-find-the-middle-index-in-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
@@ -553,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1382-balance-a-binary-search-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1382-balance-a-binary-search-tree) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1962-remove-stones-to-minimize-the-total) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
