@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0575-distribute-candies) |
 | [0622-design-circular-queue](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0622-design-circular-queue) |
+| [0636-exclusive-time-of-functions](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0636-exclusive-time-of-functions) |
 | [0641-design-circular-deque](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0641-design-circular-deque) |
 | [0645-set-mismatch](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0645-set-mismatch) |
 | [0654-maximum-binary-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0654-maximum-binary-tree) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0503-next-greater-element-ii) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0636-exclusive-time-of-functions](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0636-exclusive-time-of-functions) |
 | [0654-maximum-binary-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0735-asteroid-collision) |
