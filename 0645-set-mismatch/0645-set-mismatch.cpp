@@ -1,22 +1,18 @@
 class Solution {
 public:
     vector<int> findErrorNums(vector<int>& nums) {
-        sort(nums.begin(),nums.end());
-        int repeat=0;
-        int missing=0; bool present=false;
-        for(int i=0;i<nums.size()-1;i++){
-            if(nums[i]==nums[i+1]) repeat=nums[i];
-        }
-        for(int j=1;j<=nums.size();j++){
-            present = false;
-            for(int i=0;i<nums.size();i++){
-                if(nums[i]==j){
-                    present = true;
-                    break;
-                }
+        unordered_set<int>used;
+        int rep = -1;
+        for(int i=0;i<nums.size();i++){
+            if(used.count(nums[i])){
+                rep = nums[i];
             }
-            if(!present) missing = j;
+            else used.insert(nums[i]);
         }
-        return {repeat,missing};
+        int mis = -1;
+        for(int i=1;i<=nums.size();i++){
+            if(!used.count(i)) mis = i;
+        }
+        return {rep,mis};
     }
 };
