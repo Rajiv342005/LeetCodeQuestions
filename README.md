@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1424-diagonal-traverse-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1424-diagonal-traverse-ii) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1207-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -501,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1424-diagonal-traverse-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1424-diagonal-traverse-ii) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -1162,4 +1165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0062-unique-paths) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
