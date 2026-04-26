@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2058-concatenation-of-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2058-concatenation-of-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2102-find-the-middle-index-in-array) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2058-concatenation-of-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2058-concatenation-of-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2195-time-needed-to-buy-tickets) |
 | [2211-count-collisions-on-a-road](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2211-count-collisions-on-a-road) |
@@ -635,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0641-design-circular-deque) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2195-time-needed-to-buy-tickets) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Recursion
