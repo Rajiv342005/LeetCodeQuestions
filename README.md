@@ -503,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0389-find-the-difference) |
@@ -551,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0455-assign-cookies) |
@@ -660,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0451-sort-characters-by-frequency) |
@@ -1093,6 +1096,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0303-range-sum-query-immutable) |
 | [0622-design-circular-queue](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0641-design-circular-deque) |
@@ -1198,4 +1202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0207-course-schedule) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
