@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2460-apply-operations-to-an-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2460-apply-operations-to-an-array) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2404-most-frequent-even-element](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2404-most-frequent-even-element) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2716-minimize-string-length](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2716-minimize-string-length) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -625,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Prefix Sum
 |  |
