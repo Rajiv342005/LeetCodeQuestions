@@ -11,26 +11,23 @@
  */
 class Solution {
 public:
-    int Search(vector<int>&inorder,int start,int end,int key){
+    int find(vector<int>inorder,int target,int start,int end){
         for(int i=start;i<=end;i++){
-            if(inorder[i]==key) return i;
+            if(inorder[i]==target) 
+            return i;
         }
         return -1;
     }
-    TreeNode* BinaryTree(vector<int>&preorder,vector<int>&inorder,int start,int end,int &pre){
+    TreeNode*BT(vector<int>preorder,vector<int>inorder,int start,int end,int index){
         if(start>end) return nullptr;
-        int curr = preorder[pre++];
-        TreeNode*root = new TreeNode(curr);
-        if(start==end) return root;
-        int pos = Search(inorder,start,end,curr);
-        root->left = BinaryTree(preorder,inorder,start,pos-1,pre);
-        root->right = BinaryTree(preorder,inorder,pos+1,end,pre);
+        TreeNode*root = new TreeNode(preorder[index]);
+        int idx = find(inorder,preorder[index],start,end);
+        root->left = BT(preorder,inorder,start,idx-1,index+1);
+        root->right = BT(preorder,inorder,idx+1,end,index+(idx-start)+1);
         return root;
     }
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
-        int end = preorder.size()-1;
-        int pre = 0;
-        TreeNode*BT = BinaryTree(preorder,inorder,0,end,pre);
-        return BT;    
+        TreeNode*root = BT(preorder,inorder,0,preorder.size()-1,0);
+        return root;
     }
 };
