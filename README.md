@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0445-add-two-numbers-ii) |
 | [0504-base-7](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0504-base-7) |
 | [0728-self-dividing-numbers](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0728-self-dividing-numbers) |
+| [0788-rotated-digits](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0788-rotated-digits) |
 | [0973-k-closest-points-to-origin](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0973-k-closest-points-to-origin) |
 | [0989-add-to-array-form-of-integer](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0989-add-to-array-form-of-integer) |
 | [1013-fibonacci-number](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1013-fibonacci-number) |
@@ -995,6 +996,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0542-01-matrix) |
+| [0788-rotated-digits](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0788-rotated-digits) |
 | [1013-fibonacci-number](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1013-fibonacci-number) |
 | [1025-divisor-game](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1025-divisor-game) |
 | [1143-longest-common-subsequence](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1143-longest-common-subsequence) |
