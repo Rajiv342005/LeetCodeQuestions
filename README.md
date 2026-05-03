@@ -460,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2351-first-letter-to-appear-twice) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2367-number-of-arithmetic-triplets) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2404-most-frequent-even-element](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2404-most-frequent-even-element) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -765,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1382-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
@@ -830,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1382-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1559-detect-cycles-in-2d-grid) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Binary Tree
@@ -894,6 +897,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1382-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Trie
@@ -953,6 +957,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1559-detect-cycles-in-2d-grid) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
