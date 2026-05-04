@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0063-unique-paths-ii) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0067-add-binary) |
@@ -1038,6 +1040,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0079-word-search) |
