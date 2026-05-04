@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0782-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0804-unique-morse-code-words) |
 | [0874-backspace-string-compare](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0874-backspace-string-compare) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0944-delete-columns-to-make-sorted) |
@@ -914,6 +915,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0796-rotate-string) |
 | [1508-longest-happy-prefix](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1508-longest-happy-prefix) |
 ## Hash Function
 |  |
