@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
@@ -557,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0086-partition-list](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0125-valid-palindrome) |
