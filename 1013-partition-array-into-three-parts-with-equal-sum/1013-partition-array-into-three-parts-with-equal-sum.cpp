@@ -16,11 +16,11 @@ public:
         for(int i=0;i<arr.size();i++){
             sum+=arr[i];
             if(sum==intervals){
-                if(count==2) return true;
+                // if(count==2) return true;
                 count++;
                 sum=0; 
             }
         }
-        return count==3;
+        return count>=3;
     }
 };
