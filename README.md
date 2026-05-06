@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1861-rotating-the-box) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -581,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1861-rotating-the-box) |
 | [2000-reverse-prefix-of-word](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2000-reverse-prefix-of-word) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -1068,6 +1070,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1791-richest-customer-wealth](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1791-richest-customer-wealth) |
+| [1861-rotating-the-box](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1861-rotating-the-box) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2326-spiral-matrix-iv](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2326-spiral-matrix-iv) |
