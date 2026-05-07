@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0707-design-linked-list) |
+| [0725-split-linked-list-in-parts](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0725-split-linked-list-in-parts) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
