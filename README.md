@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2404-most-frequent-even-element](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2404-most-frequent-even-element) |
+| [2418-sort-the-people](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-count-collisions-on-a-road](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2211-count-collisions-on-a-road) |
 | [2351-first-letter-to-appear-twice](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2390-removing-stars-from-a-string) |
+| [2418-sort-the-people](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2418-sort-the-people) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2716-minimize-string-length](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2716-minimize-string-length) |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2404-most-frequent-even-element](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2404-most-frequent-even-element) |
+| [2418-sort-the-people](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2716-minimize-string-length](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2716-minimize-string-length) |
@@ -550,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2418-sort-the-people](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2545-sort-the-students-by-their-kth-score) |
