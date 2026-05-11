@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2643-row-with-maximum-ones](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2643-row-with-maximum-ones) |
 | [2644-find-the-maximum-divisibility-score](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2644-find-the-maximum-divisibility-score) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2390-removing-stars-from-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2460-apply-operations-to-an-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2751-robot-collisions](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2751-robot-collisions) |
 | [2974-minimum-number-game](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2974-minimum-number-game) |
