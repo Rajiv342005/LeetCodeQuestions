@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2058-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2195-time-needed-to-buy-tickets) |
 | [2211-count-collisions-on-a-road](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2211-count-collisions-on-a-road) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2469-convert-the-temperature](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2469-convert-the-temperature) |
 | [2544-alternating-digit-sum](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2544-alternating-digit-sum) |
