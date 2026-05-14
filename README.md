@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0303-range-sum-query-immutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0322-coin-change](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0419-battleships-in-a-board](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0419-battleships-in-a-board) |
@@ -971,6 +972,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0404-sum-of-left-leaves) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0463-island-perimeter](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0463-island-perimeter) |
@@ -1045,6 +1047,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0322-coin-change) |
 | [0516-longest-palindromic-subsequence](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0542-01-matrix) |
