@@ -1,15 +1,10 @@
 class Solution {
 public:
-    int ClimbingStair(int index,vector<int>&costs,vector<int>&dp){
-        if(index>=costs.size()) return 0;
-        if(dp[index]!=-1) return dp[index];
-        dp[index] =  min(ClimbingStair(index+1,costs,dp)+costs[index],costs[index]+ClimbingStair(index+2,costs,dp));
-        return dp[index];
-    }
     int minCostClimbingStairs(vector<int>& costs) {
-        vector<int>dp(costs.size(),-1);
-        int index0 = ClimbingStair(0,costs,dp);
-        int index1 = ClimbingStair(1,costs,dp);
-        return min(index0,index1);
+        vector<int>dp(costs.size()+1,0);
+        for(int i=2;i<dp.size();i++){
+            dp[i] = min(dp[i-1]+costs[i-1],dp[i-2]+costs[i-2]);
+        }
+        return dp.back();        
     }
 };
