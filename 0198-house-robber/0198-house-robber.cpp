@@ -1,11 +1,15 @@
 class Solution {
 public:
     int rob(vector<int>& nums) {
-        // BottomUP Approach..
-        vector<int>dp(nums.size()+2,0);
+        // Space Optimization Approach..
+        int prevHouse = 0;
+        int prev2House = 0;
         for(int i=nums.size()-1;i>=0;i--){
-            dp[i] = max(nums[i]+dp[i+2],dp[i+1]);
-        } 
-        return dp[0];
+            prev2House = max(prev2House+nums[i],prevHouse);
+            int temp = prev2House;
+            prev2House = prevHouse;
+            prevHouse = temp;    
+        }
+        return prevHouse;
     }
 };
