@@ -12,6 +12,7 @@ public:
                 minimum  = min(minimum,nums[low]);
                 low = mid+1;
             }
+            // Sorted in Right Side.
             else high = mid-1;
         }
         return minimum;
