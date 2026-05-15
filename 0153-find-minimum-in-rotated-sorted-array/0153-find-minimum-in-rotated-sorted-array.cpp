@@ -1,7 +1,19 @@
 class Solution {
 public:
     int findMin(vector<int>& nums) {
-        sort(nums.begin(),nums.end());
-        return nums[0];
+        int minimum = INT_MAX;
+        int low = 0;
+        int high = nums.size()-1;
+        while(low<=high){
+            int mid = low+(high-low)/2;
+            minimum  = min(minimum,nums[mid]);
+            // Sorted in Left Side.
+            if(nums[low]<=nums[mid]){
+                minimum  = min(minimum,nums[low]);
+                low = mid+1;
+            }
+            else high = mid-1;
+        }
+        return minimum;
     }
 };
