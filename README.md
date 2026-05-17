@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0056-merge-intervals) |
@@ -629,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0179-largest-number) |
@@ -1051,6 +1053,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0063-unique-paths-ii) |
