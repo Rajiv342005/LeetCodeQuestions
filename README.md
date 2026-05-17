@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1207-unique-number-of-occurrences) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1306-jump-game-iii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1306-jump-game-iii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -871,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1192-critical-connections-in-a-network](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1192-critical-connections-in-a-network) |
+| [1306-jump-game-iii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1306-jump-game-iii) |
 | [1382-balance-a-binary-search-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1382-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -1003,6 +1005,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1306-jump-game-iii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
