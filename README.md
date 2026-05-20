@@ -741,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0506-relative-ranks) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0658-find-k-closest-elements) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -882,6 +883,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0814-binary-tree-pruning](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0814-binary-tree-pruning) |
 | [0904-leaf-similar-trees](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0933-increasing-order-search-tree) |
@@ -1019,6 +1021,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0919-complete-binary-tree-inserter](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0919-complete-binary-tree-inserter) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0994-rotting-oranges) |
@@ -1092,6 +1095,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0746-min-cost-climbing-stairs) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0788-rotated-digits](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0788-rotated-digits) |
 | [0931-minimum-falling-path-sum](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0931-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1013-fibonacci-number) |
@@ -1291,6 +1295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0547-number-of-provinces) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0997-find-the-town-judge](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0997-find-the-town-judge) |
 | [1192-critical-connections-in-a-network](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1192-critical-connections-in-a-network) |
 | [1791-find-center-of-star-graph](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1791-find-center-of-star-graph) |
@@ -1335,4 +1340,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0295-find-median-from-data-stream) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
