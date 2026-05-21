@@ -1,21 +1,25 @@
 class Solution {
 public:
     int minDistance(string word1, string word2) {
-        // Tabulation Method[Bottom up Approach] 
+        // Space Optimization; 
         int m = word1.size();
         int n = word2.size();
-        vector<vector<int>>dp(m+1,vector<int>(n+1,0));
+        vector<int>dp(n+1,0);
+        int temp,prev;
         for(int i=m-1;i>=0;i--){
+            prev = dp[n];
             for(int j=n-1;j>=0;j--){
+                temp = dp[j];
                 if(word1[i]==word2[j]){
-                    dp[i][j] = 1+dp[i+1][j+1];
+                    dp[j] = 1+prev;
                 }
                 else{
-                    dp[i][j] = max(dp[i+1][j],dp[i][j+1]);
+                    dp[j] = max(dp[j],dp[j+1]);
                 }
+                prev = temp;
             }
         }
-        int lcs = dp[0][0];
+        int lcs = dp[0];
         return m+n - 2*lcs;
     }
 };
