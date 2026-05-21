@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0516-longest-palindromic-subsequence) |
 | [0541-reverse-string-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0583-delete-operation-for-two-strings](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0583-delete-operation-for-two-strings) |
 | [0606-construct-string-from-binary-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0606-construct-string-from-binary-tree) |
 | [0657-robot-return-to-origin](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0742-to-lower-case) |
@@ -1094,6 +1095,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0542-01-matrix) |
+| [0583-delete-operation-for-two-strings](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0583-delete-operation-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0788-rotated-digits](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0788-rotated-digits) |
