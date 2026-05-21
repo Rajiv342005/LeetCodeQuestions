@@ -1,20 +1,18 @@
 class Solution {
 public:
-    int longestCommonSubsequence(string text1, string text2) {
-        int len1 = text1.size();
-        int len2 = text2.size();
-        vector<vector<int>>dp(len1+1,vector<int>(len2+1,0));
-        for(int i=1;i<=len1;i++){
-            for(int j=1;j<=len2;j++){
-                // Character Match.
-                if(text1[i-1]==text2[j-1]){
-                    dp[i][j] = 1+dp[i-1][j-1];
-                }
-                else{
-                    dp[i][j] = max(dp[i][j-1],dp[i-1][j]);
-                }
-            }
+    int LCS(int index1 ,int index2,string &text1,string &text2,vector<vector<int>>&dp){
+        if(index1>=text1.size()||index2>=text2.size()) return 0;
+        if(dp[index1][index2]!=-1) return dp[index1][index2];
+        // Checking the Character of str is matched or Not.
+        if(text1[index1]==text2[index2]){
+            return dp[index1][index2] = 1+LCS(index1+1,index2+1,text1,text2,dp);
         }
-        return dp[len1][len2];
+        int len1 = LCS(index1+1,index2,text1,text2,dp);
+        int len2 = LCS(index1,index2+1,text1,text2,dp);
+        return dp[index1][index2] = max(len1,len2);
+    }
+    int longestCommonSubsequence(string text1, string text2) {
+        vector<vector<int>>dp(text1.size(),vector<int>(text2.size(),-1));
+        return LCS(0,0,text1,text2,dp);
     }
 };
