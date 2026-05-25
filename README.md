@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0057-insert-interval) |
@@ -1047,6 +1048,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0051-n-queens](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0257-binary-tree-paths) |
