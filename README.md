@@ -1049,6 +1049,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0051-n-queens](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0052-n-queens-ii) |
 | [0079-word-search](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0257-binary-tree-paths) |
