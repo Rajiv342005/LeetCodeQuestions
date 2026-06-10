@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0498-diagonal-traverse) |
+| [0500-keyboard-row](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0518-coin-change-ii) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0451-sort-characters-by-frequency) |
+| [0500-keyboard-row](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0504-base-7) |
 | [0516-longest-palindromic-subsequence](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0516-longest-palindromic-subsequence) |
 | [0541-reverse-string-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0541-reverse-string-ii) |
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0575-distribute-candies) |
