@@ -377,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0316-remove-duplicate-letters) |
@@ -897,6 +898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0257-binary-tree-paths) |
@@ -1018,6 +1020,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Rolling Hash
 |  |
@@ -1287,6 +1290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0295-find-median-from-data-stream) |
