@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3838-weighted-word-mapping](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3838-weighted-word-mapping) |
 ## Math
 |  |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3783-mirror-distance-of-an-integer) |
