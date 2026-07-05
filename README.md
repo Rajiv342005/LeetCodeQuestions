@@ -772,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0641-design-circular-deque) |
+| [0933-number-of-recent-calls](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0933-number-of-recent-calls) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2073-time-needed-to-buy-tickets) |
@@ -1328,6 +1329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0707-design-linked-list) |
 | [0919-complete-binary-tree-inserter](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0919-complete-binary-tree-inserter) |
+| [0933-number-of-recent-calls](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0933-number-of-recent-calls) |
 | [1622-fancy-sequence](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1622-fancy-sequence) |
 | [3709-design-exam-scores-tracker](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3709-design-exam-scores-tracker) |
 ## Merge Sort
@@ -1446,6 +1448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0295-find-median-from-data-stream) |
+| [0933-number-of-recent-calls](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0933-number-of-recent-calls) |
 ## Shortest Path
 |  |
 | ------- |
