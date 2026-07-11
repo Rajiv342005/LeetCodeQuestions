@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2974-minimum-number-game) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3033-modify-the-matrix](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3033-modify-the-matrix) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2716-minimize-string-length](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2716-minimize-string-length) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3110-score-of-a-string](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -1050,19 +1052,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0692-top-k-frequent-words](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0692-top-k-frequent-words) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
 | ------- |
 | [1508-longest-happy-prefix](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1508-longest-happy-prefix) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## String Matching
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0796-rotate-string) |
 | [1508-longest-happy-prefix](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1508-longest-happy-prefix) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
 | [1508-longest-happy-prefix](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1508-longest-happy-prefix) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Breadth-First Search
 |  |
 | ------- |
