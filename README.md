@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -1410,6 +1411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0258-add-digits) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Graph Theory
 |  |
 | ------- |
