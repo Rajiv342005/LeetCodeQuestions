@@ -410,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0415-add-strings) |
@@ -693,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -1211,6 +1213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0337-house-robber-iii) |
 | [0377-combination-sum-iv](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0377-combination-sum-iv) |
+| [0392-is-subsequence](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0518-coin-change-ii) |
