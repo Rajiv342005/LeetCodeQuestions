@@ -1,35 +1,22 @@
 class MyHashSet {
+    unordered_set<int>used;
 public:
-    vector<pair<int,bool>>nums;
     MyHashSet() {
         
     }
+    
     void add(int key) {
-        for(auto &it:nums){
-            if(it.first==key){
-                it.second = true;
-                return;
-            }
-        }
-        nums.push_back({key,true});
-        return; 
+        used.insert(key);
+        return;    
     }
     
     void remove(int key) {
-        for(auto &it:nums){
-            if(it.first==key){
-                it.second = false;
-            }
-        }
+        used.erase(key);
         return;    
     }
     
     bool contains(int key) {
-        for(auto &it: nums){
-            if(it.first==key){
-                return it.second;
-            }
-        }
+        if(used.find(key)!=used.end()) return true;
         return false;   
     }
 };
