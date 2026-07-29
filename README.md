@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0735-asteroid-collision) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0641-design-circular-deque) |
 | [0705-design-hashset](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0707-design-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0725-split-linked-list-in-parts) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1072-next-greater-node-in-linked-list) |
@@ -555,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0692-top-k-frequent-words) |
 | [0705-design-hashset](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0706-design-hashmap) |
 | [0782-jewels-and-stones](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0782-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0804-unique-morse-code-words) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -1098,6 +1101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0706-design-hashmap) |
 | [1508-longest-happy-prefix](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1508-longest-happy-prefix) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Breadth-First Search
@@ -1372,6 +1376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0641-design-circular-deque) |
 | [0705-design-hashset](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0707-design-linked-list) |
 | [0919-complete-binary-tree-inserter](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0919-complete-binary-tree-inserter) |
 | [0933-number-of-recent-calls](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0933-number-of-recent-calls) |
