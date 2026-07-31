@@ -465,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2716-minimize-string-length](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2716-minimize-string-length) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3110-score-of-a-string](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -588,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2540-minimum-common-value) |
 | [2716-minimize-string-length](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2716-minimize-string-length) |
 | [2784-check-if-array-is-good](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2784-check-if-array-is-good) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -679,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2974-minimum-number-game) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3536-maximum-product-of-two-digits](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3536-maximum-product-of-two-digits) |
@@ -757,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2530-maximal-score-after-applying-k-operations](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 ## Monotonic Stack
@@ -1271,6 +1275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2404-most-frequent-even-element) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3889-mirror-frequency-distance](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3889-mirror-frequency-distance) |
 ## Matrix
