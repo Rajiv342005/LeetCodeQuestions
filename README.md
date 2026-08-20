@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3033-modify-the-matrix](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3033-modify-the-matrix) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2751-robot-collisions](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2751-robot-collisions) |
 | [2974-minimum-number-game](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2974-minimum-number-game) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3174-clear-digits) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3477-fruits-into-baskets-ii) |
