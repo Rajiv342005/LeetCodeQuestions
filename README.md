@@ -937,6 +937,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0933-increasing-order-search-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0933-increasing-order-search-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0951-flip-equivalent-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0965-univalued-binary-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0965-univalued-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0975-range-sum-of-bst) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
@@ -1010,6 +1011,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0933-increasing-order-search-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0951-flip-equivalent-binary-trees) |
+| [0965-univalued-binary-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0965-univalued-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0975-range-sum-of-bst) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
@@ -1083,6 +1085,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0933-increasing-order-search-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0933-increasing-order-search-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0951-flip-equivalent-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0965-univalued-binary-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0965-univalued-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0975-range-sum-of-bst) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
@@ -1164,6 +1167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0841-keys-and-rooms) |
 | [0919-complete-binary-tree-inserter](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0919-complete-binary-tree-inserter) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0965-univalued-binary-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0965-univalued-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
