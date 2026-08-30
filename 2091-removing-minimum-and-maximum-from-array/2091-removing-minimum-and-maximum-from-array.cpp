@@ -12,9 +12,9 @@ public:
         int minr=nums.size()-min;
         int maxl=max+1;
         int maxr=nums.size()-max;
-        int max2 = std::max(minl,maxl);
-        int min2 = std::max(minr,maxr);
-        int ans = std::min({minl + maxl, minl + maxr, minr + maxl, minr + maxr,max2,min2});
+        int bothleft = std::max(minl,maxl);
+        int bothright = std::max(minr,maxr);
+        int ans = std::min({bothleft, minl + maxr, minr + maxl,bothright});
         return ans;     
     }
 };
