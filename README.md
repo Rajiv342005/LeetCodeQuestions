@@ -384,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1072-next-greater-node-in-linked-list](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1472-design-browser-history](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1472-design-browser-history) |
+| [1797-design-authentication-manager](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1797-design-authentication-manager) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -585,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1797-design-authentication-manager](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1797-design-authentication-manager) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2325-decode-the-message](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2325-decode-the-message) |
@@ -1413,6 +1415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0933-number-of-recent-calls](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0933-number-of-recent-calls) |
 | [1472-design-browser-history](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1472-design-browser-history) |
 | [1622-fancy-sequence](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1622-fancy-sequence) |
+| [1797-design-authentication-manager](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1797-design-authentication-manager) |
 | [3709-design-exam-scores-tracker](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3709-design-exam-scores-tracker) |
 ## Merge Sort
 |  |
@@ -1440,6 +1443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [1472-design-browser-history](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1472-design-browser-history) |
+| [1797-design-authentication-manager](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1797-design-authentication-manager) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Ordered Set
 |  |
