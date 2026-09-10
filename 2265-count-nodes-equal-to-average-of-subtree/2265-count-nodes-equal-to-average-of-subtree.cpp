@@ -13,14 +13,13 @@ class Solution {
 public:
     pair<int,int> AverageSubtreeCheck(TreeNode* &root,int &count){
         if(!root) return {0,0};
-        pair<int,int>left  = AverageSubtreeCheck(root->left,count); 
-        pair<int,int>right = AverageSubtreeCheck(root->right,count);
-
+        pair<int,int>left,right;
+        left  = AverageSubtreeCheck(root->left,count); 
+        right = AverageSubtreeCheck(root->right,count);
         int totalsum = left.first + right.first + root->val;
         int totalNode = left.second + right.second + 1;
-
-        if(totalsum/totalNode == root->val) count++;
-        
+        int avg = totalsum/totalNode;
+        if(avg == root->val) count++;
         return {totalsum,totalNode};
     }
     int averageOfSubtree(TreeNode* root) {
