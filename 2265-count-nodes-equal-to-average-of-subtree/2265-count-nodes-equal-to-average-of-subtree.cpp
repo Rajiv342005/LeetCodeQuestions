@@ -11,21 +11,21 @@
  */
 class Solution {
 public:
-    // Pair<SumofallSubtree,NoOfNodes>
-    pair<int,int> CountavgSubtree(TreeNode*&root,int &ans){
+    pair<int,int> AverageSubtreeCheck(TreeNode* &root,int &count){
         if(!root) return {0,0};
-        pair<int,int>left,right;
-        left = CountavgSubtree(root->left,ans);
-        right = CountavgSubtree(root->right,ans); 
-        int sum = left.first + right.first;
-        int node = left.second+right.second;
-        int avg = (root->val+sum)/(node+1);
-        if(avg==root->val) ans++;
-        return {sum+root->val,node+1};
+        pair<int,int>left  = AverageSubtreeCheck(root->left,count); 
+        pair<int,int>right = AverageSubtreeCheck(root->right,count);
+
+        int totalsum = left.first + right.first + root->val;
+        int totalNode = left.second + right.second + 1;
+
+        if(totalsum/totalNode == root->val) count++;
+        
+        return {totalsum,totalNode};
     }
     int averageOfSubtree(TreeNode* root) {
-        int ans = 0;
-        CountavgSubtree(root,ans);
-        return ans;
+        int count = 0;
+        AverageSubtreeCheck(root,count);
+        return count;
     }
 };
