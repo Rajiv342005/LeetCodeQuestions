@@ -1,24 +1,19 @@
 class Solution {
 public:
+    bool IsValidAnagrams(vector<int>sTable,vector<int>tTable){
+        for(int i=0; i<26; i++){
+            if(sTable[i]!=tTable[i]) return false;
+        }
+        return true;
+    }
     bool isAnagram(string s, string t) {
-       vector<long long>nums(26,0);
-       int index =0;
-       int num=0;
-       while(index<s.size()){
-        num = s[index]-'a';
-        nums[num]++;
-        index++;
-       }
-       index=0;
-       while(index<t.size()){
-        num = t[index]-'a';
-        if(nums[num]==0) return false;
-        else nums[num]--;
-        index++;
-       }
-       for(int i=0;i<26;i++){
-        if(nums[i]!=0) return false;
-       }
-       return true;
+        int n = s.size();
+        int m = t.size();
+        if(n!=m) return false;
+        vector<int>sTable(26,0);
+        vector<int>tTable(26,0);
+        for(char ch: s) sTable[ch-'a']++;
+        for(char ch: t) tTable[ch-'a']++;
+        return IsValidAnagrams(sTable,tTable);
     }
 };
