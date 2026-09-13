@@ -440,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0516-longest-palindromic-subsequence) |
 | [0541-reverse-string-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0583-delete-operation-for-two-strings) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0606-construct-string-from-binary-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0606-construct-string-from-binary-tree) |
@@ -570,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -733,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0658-find-k-closest-elements) |
 | [0832-flipping-an-image](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0832-flipping-an-image) |
@@ -807,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0239-sliding-window-maximum) |
+| [0567-permutation-in-string](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0658-find-k-closest-elements) |
