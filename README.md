@@ -436,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0415-add-strings) |
+| [0424-longest-repeating-character-replacement](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0500-keyboard-row) |
@@ -568,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0451-sort-characters-by-frequency) |
@@ -816,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0643-maximum-average-subarray-i) |
