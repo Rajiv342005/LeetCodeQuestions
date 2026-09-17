@@ -1,17 +1,15 @@
 class Solution {
 public:
     int subarraySum(vector<int>& nums, int k) {
-        unordered_map<int,int>m;
-        int prefixsum=0;
-        int count=0;
-        m[0] =1;
-        for(int i=0;i<nums.size();i++){
-            prefixsum+=nums[i];
-            if(m.find(prefixsum-k)!=m.end()){
-                count+=m[prefixsum-k];
-            }
-            m[prefixsum]++;
+        int currSum = 0;
+        unordered_map<int,int>used;
+        used[0]= 1;
+        int countSubarray = 0;
+        for(int val:nums){
+            currSum += val;
+            if(used.count(currSum-k)) countSubarray+= used[currSum-k];
+            used[currSum]++;
         }
-        return count;
+        return countSubarray;
     }
 };
