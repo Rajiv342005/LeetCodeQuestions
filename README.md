@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-clear-digits](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3174-clear-digits) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3477-fruits-into-baskets-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3498-reverse-degree-of-a-string) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3726-remove-zeros-in-decimal-representation) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3174-clear-digits](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3174-clear-digits) |
+| [3498-reverse-degree-of-a-string](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3498-reverse-degree-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3794-reverse-string-prefix) |
 | [3838-weighted-word-mapping](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3838-weighted-word-mapping) |
