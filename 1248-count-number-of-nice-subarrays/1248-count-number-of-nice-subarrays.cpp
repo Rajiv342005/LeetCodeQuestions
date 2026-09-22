@@ -2,11 +2,12 @@ class Solution {
 public:
     int countNiceSubarray(vector<int>&nums,int k){
         if(k<0) return 0;
+        int n = nums.size();
         int shrinkPointer = 0;
         int expandPointer = 0;
         int totalCount = 0;
         int currentSum = 0;
-        while(expandPointer<nums.size()){
+        while(expandPointer<n){
             currentSum += (nums[expandPointer])%2;
             if(currentSum>k){
                 while(currentSum>k){
