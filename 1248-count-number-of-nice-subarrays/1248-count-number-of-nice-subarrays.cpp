@@ -7,7 +7,7 @@ public:
         int totalCount = 0;
         int currentSum = 0;
         while(expandPointer<nums.size()){
-            currentSum += (nums[expandPointer]%2);
+            currentSum += (nums[expandPointer])%2;
             if(currentSum>k){
                 while(currentSum>k){
                     currentSum -= (nums[shrinkPointer])%2;
