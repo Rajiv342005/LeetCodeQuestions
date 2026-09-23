@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0958-sort-array-by-parity-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0973-k-closest-points-to-origin) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0980-unique-paths-iii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0980-unique-paths-iii) |
 | [0989-add-to-array-form-of-integer](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0989-add-to-array-form-of-integer) |
 | [0994-rotting-oranges](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0994-rotting-oranges) |
@@ -597,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0997-find-the-town-judge](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1002-find-common-characters) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -855,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1004-max-consecutive-ones-iii) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1208-get-equal-substrings-within-budget) |
