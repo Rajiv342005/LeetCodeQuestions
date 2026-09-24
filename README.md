@@ -422,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0067-add-binary) |
+| [0076-minimum-window-substring](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0151-reverse-words-in-a-string) |
@@ -562,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0142-linked-list-cycle-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0142-linked-list-cycle-ii) |
@@ -826,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0239-sliding-window-maximum) |
