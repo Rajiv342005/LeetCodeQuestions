@@ -1,40 +1,37 @@
 class Solution {
 public:
-    string removeKdigits(string nums, int k) {
-        stack <char> s;
-        int index =0;
-        string new1 ="";
-        while(index<nums.size()){
-            if(s.empty()){
-                s.push(nums[index]);
-                index++;
-            }
-            else if(s.top()>nums[index]){
-                while(!s.empty()&& s.top()>nums[index] && k!=0){
-                    s.pop();
-                    k--;
+    string removeKdigits(string num, int k) {
+        stack<int>st;
+        for(char ch: num){
+            int element = ch-'0';
+            if(!st.empty()){
+                // check whether stack's top is larger than current element.
+                if(st.top()>element){
+                    while(!st.empty() && k>0 && (st.top()>element)){
+                        st.pop();
+                        k--;
+                    }
                 }
-                s.push(nums[index]);
-                index++;
             }
-            else{
-                s.push(nums[index]);
-                index++;
-            }
+            st.push(element);
         }
-        while(!s.empty() && k!=0){
-            s.pop();
+        stack<int>helper;
+        while(!st.empty() && k>0){
+            st.pop();
             k--;
         }
-        while(s.size()){
-            new1+=s.top();
-            s.pop();
+        while(!st.empty()){
+            helper.push(st.top());
+            st.pop();
         }
-        reverse(new1.begin(),new1.end());
-        index =0;
-        while(index<new1.size() && new1[index]=='0') index++;
-        new1 = new1.substr(index);
-        if (new1.empty()) return "0";
-        return new1;
+        while(!helper.empty() && helper.top()==0){
+            helper.pop();
+        }
+        string ans = "";
+        while(!helper.empty()){
+            ans += helper.top()+'0';
+            helper.pop();
+        }
+        return ans==""?"0":ans;
     }
 };
