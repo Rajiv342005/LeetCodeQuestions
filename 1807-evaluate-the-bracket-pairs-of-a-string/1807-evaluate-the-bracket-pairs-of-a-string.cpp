@@ -22,7 +22,6 @@ public:
                     ans += mp[key];
                 }
                 else ans += '?';
-                // index++; 
             }
             else{
                 ans += s[index]; 
