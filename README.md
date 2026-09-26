@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1791-richest-customer-wealth](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1791-richest-customer-wealth) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1816-truncate-sentence](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1833-maximum-ice-cream-bars) |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1816-truncate-sentence](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1816-truncate-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2000-reverse-prefix-of-word) |
@@ -620,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1695-maximum-erasure-value](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1695-maximum-erasure-value) |
 | [1797-design-authentication-manager](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1797-design-authentication-manager) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2325-decode-the-message](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2325-decode-the-message) |
