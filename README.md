@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0735-asteroid-collision) |
 | [0832-flipping-an-image](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0832-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0874-backspace-string-compare) |
+| [1006-clumsy-factorial](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1006-clumsy-factorial) |
 | [1048-clumsy-factorial](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1048-clumsy-factorial) |
 | [1260-shift-2d-grid](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0788-rotated-digits) |
 | [0973-k-closest-points-to-origin](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0973-k-closest-points-to-origin) |
 | [0989-add-to-array-form-of-integer](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0989-add-to-array-form-of-integer) |
+| [1006-clumsy-factorial](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1006-clumsy-factorial) |
 | [1013-fibonacci-number](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1013-fibonacci-number) |
 | [1025-divisor-game](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1025-divisor-game) |
 | [1048-clumsy-factorial](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1048-clumsy-factorial) |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0874-backspace-string-compare) |
 | [0933-increasing-order-search-tree](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0933-increasing-order-search-tree) |
+| [1006-clumsy-factorial](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1006-clumsy-factorial) |
 | [1048-clumsy-factorial](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1048-clumsy-factorial) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
