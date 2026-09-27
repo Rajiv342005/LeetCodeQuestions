@@ -1,80 +1,64 @@
 class Solution {
 public:
-    void pushright(vector<int>&sum,vector<int>&ans){
+    vector<int> leftSmallest(vector<int>nums){
+        int n = nums.size();
+        vector<int>NSL(n,-1);
         stack<int>st;
-        int index=0;
-        while(index<sum.size()){
-            if(st.empty()){
-                st.push(index);
-            }
-            else{
-                if(sum[index]>=sum[st.top()]){
-                    st.push(index);
+        for(int i=0;i<n;i++){
+            if(!st.empty()){
+                // if stack top element is larger than current element;
+                while(!st.empty() && nums[st.top()]>nums[i]){
+                    st.pop();
                 }
-                else{
-                    while(!st.empty() && sum[index]<sum[st.top()]){
-                        ans[st.top()] = index;
+                if(!st.empty()) NSL[i] = st.top();
+            }
+            st.push(i);
+        }
+        return NSL;
+    }
+    vector<int> rightSmallest(vector<int>nums){
+        int n = nums.size();
+        vector<int>NSR(n,n);
+        stack<int>st;
+        for(int i=0;i<n;i++){
+            if(!st.empty()){
+                // if stack top element is greater than current element;
+                if(nums[st.top()]>nums[i]){
+                    while(!st.empty() && (nums[st.top()]>nums[i])){
+                        NSR[st.top()] = i;
                         st.pop();
                     }
-                    st.push(index);
                 }
             }
-            index++;
+            st.push(i);
         }
-        while(!st.empty()){
-            ans[st.top()] = index;
-            st.pop();
-        }
+        return NSR;
     }
-    void pushleft(vector<int>&sum,vector<int>&ans){
-        stack<int>st;
-        int index=sum.size()-1;
-        while(index>=0){
-            if(st.empty()){
-                st.push(index);
-            }
-            else{
-                if(sum[index]>=sum[st.top()]){
-                    st.push(index);
-                }
-                else{
-                    while(!st.empty() && sum[index]<sum[st.top()]){
-                        ans[st.top()] = index;
-                        st.pop();
-                    }
-                    st.push(index);
-                }
-            }
-            index--;
-        }
-        while(!st.empty()){
-            ans[st.top()] = index;
-            st.pop();
-        }
-    }
-    void Check(vector<int>&sum,vector<char>&nums,int &MaxArea){
-        for(int i=0;i<nums.size();i++){
-            if(nums[i]=='1') sum[i]++;
-            else sum[i]=0;
-        }
-        vector<int>leftflown(nums.size());
-        vector<int>rightflown(nums.size());
-        pushright(sum,rightflown);
-        pushleft(sum,leftflown);
-        int currArea=0;
-        for(int i=0;i<nums.size();i++){
-            currArea = sum[i]*(rightflown[i]-leftflown[i]-1);
-            if(currArea>MaxArea) MaxArea = currArea;
-            else continue;
-        }
 
-    }
-    int maximalRectangle(vector<vector<char>>& matrix) {
-        vector<int>sum(matrix[0].size(),0);
-        int MaxArea=INT_MIN;
-        for(int i=0;i<matrix.size();i++){
-            Check(sum,matrix[i],MaxArea);
+    int largestRectangleArea(vector<int>&height){
+        vector<int>left = leftSmallest(height);
+        vector<int>right = rightSmallest(height);
+        int maxArea = 0;
+        int rectangleArea,breadth;
+        for(int i=0;i<height.size();i++){
+            breadth = (right[i]-left[i]-1);
+            rectangleArea = height[i]*breadth;
+            maxArea = max(maxArea,rectangleArea);
         }
-        return MaxArea;
+        return maxArea;
+    } 
+    int maximalRectangle(vector<vector<char>>& matrix) {
+        int m = matrix.size();
+        int n = matrix[0].size();
+        vector<int>heights(n,0);
+        int maxArea = 0;
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                if(matrix[i][j]=='0') heights[j] = 0;
+                else heights[j] += 1;
+            }
+            maxArea = max(maxArea,largestRectangleArea(heights));
+        }
+        return maxArea;
     }
 };
