@@ -1627,4 +1627,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
