@@ -1,69 +1,49 @@
 class Solution {
 public:
-    void PushRight(vector<int>&nums,vector<int>&ans){
+    vector<int> leftSmallest(vector<int>nums){
+        int n = nums.size();
+        vector<int>NSL(n,-1);
         stack<int>st;
-        int index=0;
-        while(index<nums.size()){
-            if(st.empty()){
-                st.push(index);
-            }
-            else{
-                if(nums[index]>=nums[st.top()]){
-                    st.push(index);
+        for(int i=0;i<n;i++){
+            if(!st.empty()){
+                // if stack top element is larger than current element;
+                while(!st.empty() && nums[st.top()]>nums[i]){
+                    st.pop();
                 }
-                else{
-                    while(!st.empty() && nums[index]<nums[st.top()]){
-                        ans[st.top()] = index;
-                        st.pop();
-                    }
-                    st.push(index);
-                }
+                if(!st.empty()) NSL[i] = st.top();
             }
-            index++;
+            st.push(i);
         }
-        while(!st.empty()){
-            ans[st.top()] = index;
-            st.pop();
-        }
+        return NSL;
     }
-    void PushLeft(vector<int>&nums,vector<int>&ans){
+    vector<int> rightSmallest(vector<int>nums){
+        int n = nums.size();
+        vector<int>NSR(n,n);
         stack<int>st;
-        int index=nums.size()-1;
-        while(index>=0){
-            if(st.empty()){
-                st.push(index);
-            }
-            else{
-                if(nums[index]>=nums[st.top()]){
-                    st.push(index);
-                }
-                else{
-                    while(!st.empty() && nums[index]<nums[st.top()]){
-                        ans[st.top()] = index;
+        for(int i=0;i<n;i++){
+            if(!st.empty()){
+                // if stack top element is greater than current element;
+                if(nums[st.top()]>nums[i]){
+                    while(!st.empty() && (nums[st.top()]>nums[i])){
+                        NSR[st.top()] = i;
                         st.pop();
                     }
-                    st.push(index);
                 }
             }
-            index--;
+            st.push(i);
         }
-        while(!st.empty()){
-            ans[st.top()] = index;
-            st.pop();
-        }
+        return NSR;
     }
     int largestRectangleArea(vector<int>& heights) {
-        vector<int>Leftflown(heights.size());
-        vector<int>Rightflown(heights.size());
-        PushRight(heights,Rightflown);
-        PushLeft(heights,Leftflown);
-        int MaxArea =INT_MIN;
-        int CurrArea = 0;
+        vector<int> left = leftSmallest(heights);
+        vector<int>right = rightSmallest(heights);
+        int maxArea = INT_MIN;
+        int rectangleArea,breadth;
         for(int i=0;i<heights.size();i++){
-            CurrArea = heights[i]*(Rightflown[i]-Leftflown[i]-1);
-            if(CurrArea>MaxArea) MaxArea = CurrArea;
-            else continue;
+            breadth = (right[i]-left[i]-1);
+            rectangleArea = heights[i]*breadth;
+            maxArea = max(maxArea,rectangleArea);
         }
-        return MaxArea;
+        return maxArea;   
     }
 };
