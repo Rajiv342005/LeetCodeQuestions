@@ -1,38 +1,28 @@
 class Solution {
 public:
-    void NGE(vector<int>&nums2,vector<int>&ans){
-        stack<int>st;
-        int index=0;
-        while(index<nums2.size()){
-            if(st.empty()) st.push(index);
-            else{
-                if(nums2[index]<nums2[st.top()]){
-                    st.push(index);
-                }
-                else{
-                    while(!st.empty() && nums2[index]>nums2[st.top()]){
-                        ans[st.top()] = nums2[index];
-                        st.pop(); 
-                    }
-                    st.push(index);
-                }
-            }
-            index++;
-        }
-    }
     vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
-        vector<int>nextGreater(nums2.size(),-1);
-        vector<int>ans(nums1.size(),-1);
-        NGE(nums2,nextGreater);
-        for(int i=0;i<nums1.size();i++){
-            for(int j=0;j<nums2.size();j++){
-                if(nums1[i]==nums2[j]){
-                    ans[i] = nextGreater[j];
-                    break;
+        int n = nums2.size();
+        vector<int>NGE(n,-1);
+        stack<int>st;
+        for(int i=0;i<n;i++){
+            if(!st.empty()){
+                // if stack top element is smaller than currrent element;
+                if(nums2[st.top()]<nums2[i]){
+                    while(!st.empty() && (nums2[st.top()]<nums2[i])){
+                        NGE[st.top()] = nums2[i];
+                        st.pop();
+                    }
                 }
-                else continue;
             }
+            st.push(i);
         }
-        return ans;
+        unordered_map<int,int>mp;
+        for(int i=0;i<n;i++) mp[nums2[i]] = NGE[i];
+        n = nums1.size();
+        vector<int>ans(n);
+        for(int i=0;i<n;i++){
+            ans[i] = mp[nums1[i]];
+        }
+        return ans;    
     }
 };
