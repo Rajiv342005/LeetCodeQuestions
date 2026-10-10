@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3838-weighted-word-mapping](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3875-construct-uniform-parity-array-i) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Simulation
 |  |
 | ------- |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3838-weighted-word-mapping](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Math
 |  |
 | ------- |
@@ -659,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3889-mirror-frequency-distance](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3889-mirror-frequency-distance) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -743,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -942,6 +946,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -1373,6 +1378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3889-mirror-frequency-distance](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3889-mirror-frequency-distance) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Matrix
 |  |
 | ------- |
@@ -1524,6 +1530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [3477-fruits-into-baskets-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3477-fruits-into-baskets-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Bucket Sort
 |  |
 | ------- |
