@@ -1083,6 +1083,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0785-is-graph-bipartite](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0797-all-paths-from-source-to-target) |
 | [0814-binary-tree-pruning](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0814-binary-tree-pruning) |
@@ -1245,6 +1246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0785-is-graph-bipartite](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0841-keys-and-rooms) |
@@ -1571,6 +1573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0841-keys-and-rooms) |
@@ -1586,6 +1589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0695-max-area-of-island) |
+| [0785-is-graph-bipartite](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0785-is-graph-bipartite) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -1647,4 +1651,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0084-largest-rectangle-in-histogram) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
