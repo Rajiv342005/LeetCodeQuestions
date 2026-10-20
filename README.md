@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0258-add-digits) |
 | [0371-sum-of-two-integers](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0412-fizz-buzz) |
@@ -1508,6 +1510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0204-count-primes) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2367-number-of-arithmetic-triplets) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3200-maximum-height-of-a-triangle](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/3200-maximum-height-of-a-triangle) |
@@ -1561,6 +1564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -1659,4 +1663,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0785-is-graph-bipartite) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Rajiv342005/LeetCodeQuestions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
